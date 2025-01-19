@@ -18,7 +18,7 @@
    Plug 'pratikparvati/vim-pss-syntax'
    ```
 2.	Run the following command in Vim to install the plugin
-   
+
    ```vim
    :PlugInstall
    ```
