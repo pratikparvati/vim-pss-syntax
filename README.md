@@ -26,9 +26,9 @@
 
 If you don’t use a plugin manager, you can manually install the plugin by cloning this repository into your Vim's `~/.vim` directory:
 
-    ```bash
-    git clone https://github.com/pratikparvati/vim-pss-syntax.git ~/.vim/pack/plugins/start/vim-pss-syntax
-    ```
+   ```bash
+   git clone https://github.com/pratikparvati/vim-pss-syntax.git ~/.vim/pack/plugins/start/vim-pss-syntax
+   ```
 This ensures the plugin’s syntax files are available to Vim.
 
 ## Usage
